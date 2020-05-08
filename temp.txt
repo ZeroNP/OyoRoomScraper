@@ -1,0 +1,8 @@
+'name',
+'address',
+'rating',
+'review_count',
+'rating_summary',
+'facilites',
+'price',
+'offer'
